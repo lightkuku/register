@@ -1,0 +1,5 @@
+{
+    "owner": { "username": "lightkuku" },
+    "records": { "CNAME": "lightkuku.github.io" },
+    "proxied": true
+}
